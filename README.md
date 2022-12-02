@@ -3,9 +3,15 @@
 
 The aim of this project is to apply Reinforcement Learning to learn optimal policy for a frog jumping on lilypads.
 
-## Screenshots
+![Screenshot](bellman.png)
+
+# Screenshots
+
+![Screenshot](screenshot2.png)
 
 ![Screenshot](screenshot.png)
+
+
 
 ## Authors
 
